@@ -1,0 +1,1872 @@
+{
+ "1": {
+  "model": "valo",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: valo",
+   "sg gen: valon",
+   "sg part: valoa",
+   "sg illat: valoon",
+   "pl nom: valot",
+   "pl gen: valojen",
+   "pl part: valoja",
+   "pl illat: valoihin"
+  ],
+  "raw": [
+   "valo",
+   "valon",
+   "valoa",
+   "valoon",
+   "valot",
+   "valojen",
+   "valoja",
+   "valoihin"
+  ]
+ },
+ "2": {
+  "model": "palvelu",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: palvelu",
+   "sg gen: palvelun",
+   "sg part: palvelua",
+   "sg illat: palveluun",
+   "pl nom: palvelut",
+   "pl gen: palvelujen palveluiden palveluitten",
+   "pl part: palveluja palveluita",
+   "pl illat: palveluihin"
+  ],
+  "raw": [
+   "palvelu",
+   "palvelun",
+   "palvelua",
+   "palveluun",
+   "palvelut",
+   "palvelujen palveluiden palveluitten",
+   "palveluja palveluita",
+   "palveluihin"
+  ]
+ },
+ "3": {
+  "model": "valtio",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: valtio",
+   "sg gen: valtion",
+   "sg part: valtiota",
+   "sg illat: valtioon",
+   "pl nom: valtiot",
+   "pl gen: valtioiden valtioitten",
+   "pl part: valtioita",
+   "pl illat: valtioihin"
+  ],
+  "raw": [
+   "valtio",
+   "valtion",
+   "valtiota",
+   "valtioon",
+   "valtiot",
+   "valtioiden valtioitten",
+   "valtioita",
+   "valtioihin"
+  ]
+ },
+ "4": {
+  "model": "laatikko",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: laatikko",
+   "sg gen: laatikon",
+   "sg part: laatikkoa",
+   "sg illat: laatikkoon",
+   "pl nom: laatikot",
+   "pl gen: laatikkojen laatikoiden laatikoitten",
+   "pl part: laatikkoja laatikoita",
+   "pl illat: laatikkoihin laatikoihin"
+  ],
+  "raw": [
+   "laatikko",
+   "laatikon",
+   "laatikkoa",
+   "laatikkoon",
+   "laatikot",
+   "laatikkojen laatikoiden laatikoitten",
+   "laatikkoja laatikoita",
+   "laatikkoihin laatikoihin"
+  ]
+ },
+ "5": {
+  "model": "risti",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: risti",
+   "sg gen: ristin",
+   "sg part: ristiä",
+   "sg illat: ristiin",
+   "pl nom: ristit",
+   "pl gen: ristien",
+   "pl part: ristejä",
+   "pl illat: risteihin"
+  ],
+  "raw": [
+   "risti",
+   "ristin",
+   "ristiä",
+   "ristiin",
+   "ristit",
+   "ristien",
+   "ristejä",
+   "risteihin"
+  ]
+ },
+ "6": {
+  "model": "paperi",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: paperi",
+   "sg gen: paperin",
+   "sg part: paperia",
+   "sg illat: paperiin",
+   "pl nom: paperit",
+   "pl gen: paperien papereiden papereitten",
+   "pl part: papereja papereita",
+   "pl illat: papereihin"
+  ],
+  "raw": [
+   "paperi",
+   "paperin",
+   "paperia",
+   "paperiin",
+   "paperit",
+   "paperien papereiden papereitten",
+   "papereja papereita",
+   "papereihin"
+  ]
+ },
+ "7": {
+  "model": "ovi",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: ovi",
+   "sg gen: oven",
+   "sg part: ovea",
+   "sg illat: oveen",
+   "pl nom: ovet",
+   "pl gen: ovien",
+   "pl part: ovia",
+   "pl illat: oviin"
+  ],
+  "raw": [
+   "ovi",
+   "oven",
+   "ovea",
+   "oveen",
+   "ovet",
+   "ovien",
+   "ovia",
+   "oviin"
+  ]
+ },
+ "8": {
+  "model": "nalle",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: nalle",
+   "sg gen: nallen",
+   "sg part: nallea",
+   "sg illat: nalleen",
+   "pl nom: nallet",
+   "pl gen: nallejen (nallein)",
+   "pl part: nalleja",
+   "pl illat: nalleihin"
+  ],
+  "raw": [
+   "nalle",
+   "nallen",
+   "nallea",
+   "nalleen",
+   "nallet",
+   "nallejen (nallein)",
+   "nalleja",
+   "nalleihin"
+  ]
+ },
+ "9": {
+  "model": "kala",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: kala",
+   "sg gen: kalan",
+   "sg part: kalaa",
+   "sg illat: kalaan",
+   "pl nom: kalat",
+   "pl gen: kalojen (kalain)",
+   "pl part: kaloja",
+   "pl illat: kaloihin"
+  ],
+  "raw": [
+   "kala",
+   "kalan",
+   "kalaa",
+   "kalaan",
+   "kalat",
+   "kalojen (kalain)",
+   "kaloja",
+   "kaloihin"
+  ]
+ },
+ "10": {
+  "model": "koira",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: koira",
+   "sg gen: koiran",
+   "sg part: koiraa",
+   "sg illat: koiraan",
+   "pl nom: koirat",
+   "pl gen: koirien (koirain)",
+   "pl part: koiria",
+   "pl illat: koiriin"
+  ],
+  "raw": [
+   "koira",
+   "koiran",
+   "koiraa",
+   "koiraan",
+   "koirat",
+   "koirien (koirain)",
+   "koiria",
+   "koiriin"
+  ]
+ },
+ "11": {
+  "model": "omena",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: omena",
+   "sg gen: omenan",
+   "sg part: omenaa",
+   "sg illat: omenaan",
+   "pl nom: omenat",
+   "pl gen: omenien omenoiden omenoitten (omenojen) (omenain)",
+   "pl part: omenia omenoita (omenoja)",
+   "pl illat: omeniin omenoihin"
+  ],
+  "raw": [
+   "omena",
+   "omenan",
+   "omenaa",
+   "omenaan",
+   "omenat",
+   "omenien omenoiden omenoitten (omenojen) (omenain)",
+   "omenia omenoita (omenoja)",
+   "omeniin omenoihin"
+  ]
+ },
+ "12": {
+  "model": "kulkija",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: kulkija",
+   "sg gen: kulkijan",
+   "sg part: kulkijaa",
+   "sg illat: kulkijaan",
+   "pl nom: kulkijat",
+   "pl gen: kulkijoiden kulkijoitten (kulkijain)",
+   "pl part: kulkijoita",
+   "pl illat: kulkijoihin"
+  ],
+  "raw": [
+   "kulkija",
+   "kulkijan",
+   "kulkijaa",
+   "kulkijaan",
+   "kulkijat",
+   "kulkijoiden kulkijoitten (kulkijain)",
+   "kulkijoita",
+   "kulkijoihin"
+  ]
+ },
+ "13": {
+  "model": "katiska",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: katiska",
+   "sg gen: katiskan",
+   "sg part: katiskaa",
+   "sg illat: katiskaan",
+   "pl nom: katiskat",
+   "pl gen: katiskoiden katiskoitten katiskojen (katiskain)",
+   "pl part: katiskoita katiskoja",
+   "pl illat: katiskoihin"
+  ],
+  "raw": [
+   "katiska",
+   "katiskan",
+   "katiskaa",
+   "katiskaan",
+   "katiskat",
+   "katiskoiden katiskoitten katiskojen (katiskain)",
+   "katiskoita katiskoja",
+   "katiskoihin"
+  ]
+ },
+ "14": {
+  "model": "solakka",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: solakka",
+   "sg gen: solakan",
+   "sg part: solakkaa",
+   "sg illat: solakkaan",
+   "pl nom: solakat",
+   "pl gen: solakoiden solakoitten solakkojen (solakkain)",
+   "pl part: solakoita solakkoja",
+   "pl illat: solakkoihin solakoihin"
+  ],
+  "raw": [
+   "solakka",
+   "solakan",
+   "solakkaa",
+   "solakkaan",
+   "solakat",
+   "solakoiden solakoitten solakkojen (solakkain)",
+   "solakoita solakkoja",
+   "solakkoihin solakoihin"
+  ]
+ },
+ "15": {
+  "model": "korkea",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: korkea",
+   "sg gen: korkean",
+   "sg part: korkeaa korkeata",
+   "sg illat: korkeaan",
+   "pl nom: korkeat",
+   "pl gen: korkeiden korkeitten (korkeain)",
+   "pl part: korkeita",
+   "pl illat: korkeisiin korkeihin"
+  ],
+  "raw": [
+   "korkea",
+   "korkean",
+   "korkeaa korkeata",
+   "korkeaan",
+   "korkeat",
+   "korkeiden korkeitten (korkeain)",
+   "korkeita",
+   "korkeisiin korkeihin"
+  ]
+ },
+ "16": {
+  "model": "vanhempi",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: vanhempi",
+   "sg gen: vanhemman",
+   "sg part: vanhempaa",
+   "sg illat: vanhempaan",
+   "pl nom: vanhemmat",
+   "pl gen: vanhempien (vanhempain)",
+   "pl part: vanhempia",
+   "pl illat: vanhempiin"
+  ],
+  "raw": [
+   "vanhempi",
+   "vanhemman",
+   "vanhempaa",
+   "vanhempaan",
+   "vanhemmat",
+   "vanhempien (vanhempain)",
+   "vanhempia",
+   "vanhempiin"
+  ]
+ },
+ "17": {
+  "model": "vapaa",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: vapaa",
+   "sg gen: vapaan",
+   "sg part: vapaata",
+   "sg illat: vapaaseen",
+   "pl nom: vapaat",
+   "pl gen: vapaiden vapaitten",
+   "pl part: vapaita",
+   "pl illat: vapaisiin (vapaihin)"
+  ],
+  "raw": [
+   "vapaa",
+   "vapaan",
+   "vapaata",
+   "vapaaseen",
+   "vapaat",
+   "vapaiden vapaitten",
+   "vapaita",
+   "vapaisiin (vapaihin)"
+  ]
+ },
+ "18": {
+  "model": "maa",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: maa",
+   "sg gen: maan",
+   "sg part: maata",
+   "sg illat: maahan",
+   "pl nom: maat",
+   "pl gen: maiden maitten",
+   "pl part: maita",
+   "pl illat: maihin"
+  ],
+  "raw": [
+   "maa",
+   "maan",
+   "maata",
+   "maahan",
+   "maat",
+   "maiden maitten",
+   "maita",
+   "maihin"
+  ]
+ },
+ "19": {
+  "model": "suo",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: suo",
+   "sg gen: suon",
+   "sg part: suota",
+   "sg illat: suohon",
+   "pl nom: suot",
+   "pl gen: soiden soitten",
+   "pl part: soita",
+   "pl illat: soihin"
+  ],
+  "raw": [
+   "suo",
+   "suon",
+   "suota",
+   "suohon",
+   "suot",
+   "soiden soitten",
+   "soita",
+   "soihin"
+  ]
+ },
+ "20": {
+  "model": "filee",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: filee",
+   "sg gen: fileen",
+   "sg part: fileetä",
+   "sg illat: fileehen fileeseen",
+   "pl nom: fileet",
+   "pl gen: fileiden fileitten",
+   "pl part: fileitä",
+   "pl illat: fileihin fileisiin"
+  ],
+  "raw": [
+   "filee",
+   "fileen",
+   "fileetä",
+   "fileehen fileeseen",
+   "fileet",
+   "fileiden fileitten",
+   "fileitä",
+   "fileihin fileisiin"
+  ]
+ },
+ "21": {
+  "model": "rosé",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: rosé",
+   "sg gen: rosén",
+   "sg part: roséta",
+   "sg illat: roséhen",
+   "pl nom: rosét",
+   "pl gen: roséiden",
+   "pl part: roséita",
+   "pl illat: roséihin"
+  ],
+  "raw": [
+   "rosé",
+   "rosén",
+   "roséta",
+   "roséhen",
+   "rosét",
+   "roséiden",
+   "roséita",
+   "roséihin"
+  ]
+ },
+ "22": {
+  "model": "parfait",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: parfait",
+   "sg gen: parfait'n",
+   "sg part: parfait'ta",
+   "sg illat: parfait'hen",
+   "pl nom: parfait't",
+   "pl gen: parfait'iden",
+   "pl part: parfait'ita",
+   "pl illat: parfait'ihin"
+  ],
+  "raw": [
+   "parfait",
+   "parfait'n",
+   "parfait'ta",
+   "parfait'hen",
+   "parfait't",
+   "parfait'iden",
+   "parfait'ita",
+   "parfait'ihin"
+  ]
+ },
+ "23": {
+  "model": "tiili",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: tiili",
+   "sg gen: tiilen",
+   "sg part: tiiltä",
+   "sg illat: tiileen",
+   "pl nom: tiilet",
+   "pl gen: tiilien",
+   "pl part: tiiliä",
+   "pl illat: tiiliin"
+  ],
+  "raw": [
+   "tiili",
+   "tiilen",
+   "tiiltä",
+   "tiileen",
+   "tiilet",
+   "tiilien",
+   "tiiliä",
+   "tiiliin"
+  ]
+ },
+ "24": {
+  "model": "uni",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: uni",
+   "sg gen: unen",
+   "sg part: unta",
+   "sg illat: uneen",
+   "pl nom: unet",
+   "pl gen: unien unten",
+   "pl part: unia",
+   "pl illat: uniin"
+  ],
+  "raw": [
+   "uni",
+   "unen",
+   "unta",
+   "uneen",
+   "unet",
+   "unien unten",
+   "unia",
+   "uniin"
+  ]
+ },
+ "25": {
+  "model": "toimi",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: toimi",
+   "sg gen: toimen",
+   "sg part: tointa toimea",
+   "sg illat: toimeen",
+   "pl nom: toimet",
+   "pl gen: toimien tointen",
+   "pl part: toimia",
+   "pl illat: toimiin"
+  ],
+  "raw": [
+   "toimi",
+   "toimen",
+   "tointa toimea",
+   "toimeen",
+   "toimet",
+   "toimien tointen",
+   "toimia",
+   "toimiin"
+  ]
+ },
+ "26": {
+  "model": "pieni",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: pieni",
+   "sg gen: pienen",
+   "sg part: pientä",
+   "sg illat: pieneen",
+   "pl nom: pienet",
+   "pl gen: pienten pienien",
+   "pl part: pieniä",
+   "pl illat: pieniin"
+  ],
+  "raw": [
+   "pieni",
+   "pienen",
+   "pientä",
+   "pieneen",
+   "pienet",
+   "pienten pienien",
+   "pieniä",
+   "pieniin"
+  ]
+ },
+ "27": {
+  "model": "käsi",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: käsi",
+   "sg gen: käden",
+   "sg part: kättä",
+   "sg illat: käteen",
+   "pl nom: kädet",
+   "pl gen: käsien (kätten)",
+   "pl part: käsiä",
+   "pl illat: käsiin"
+  ],
+  "raw": [
+   "käsi",
+   "käden",
+   "kättä",
+   "käteen",
+   "kädet",
+   "käsien (kätten)",
+   "käsiä",
+   "käsiin"
+  ]
+ },
+ "28": {
+  "model": "kynsi",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: kynsi",
+   "sg gen: kynnen",
+   "sg part: kynttä",
+   "sg illat: kynteen",
+   "pl nom: kynnet",
+   "pl gen: kynsien (kyntten)",
+   "pl part: kynsiä",
+   "pl illat: kynsiin"
+  ],
+  "raw": [
+   "kynsi",
+   "kynnen",
+   "kynttä",
+   "kynteen",
+   "kynnet",
+   "kynsien (kyntten)",
+   "kynsiä",
+   "kynsiin"
+  ]
+ },
+ "29": {
+  "model": "lapsi",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: lapsi",
+   "sg gen: lapsen",
+   "sg part: lasta",
+   "sg illat: lapseen",
+   "pl nom: lapset",
+   "pl gen: lasten lapsien",
+   "pl part: lapsia",
+   "pl illat: lapsiin"
+  ],
+  "raw": [
+   "lapsi",
+   "lapsen",
+   "lasta",
+   "lapseen",
+   "lapset",
+   "lasten lapsien",
+   "lapsia",
+   "lapsiin"
+  ]
+ },
+ "30": {
+  "model": "veitsi",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: veitsi",
+   "sg gen: veitsen",
+   "sg part: veistä",
+   "sg illat: veitseen",
+   "pl nom: veitset",
+   "pl gen: veitsien (veisten)",
+   "pl part: veitsiä",
+   "pl illat: veitsiin"
+  ],
+  "raw": [
+   "veitsi",
+   "veitsen",
+   "veistä",
+   "veitseen",
+   "veitset",
+   "veitsien (veisten)",
+   "veitsiä",
+   "veitsiin"
+  ]
+ },
+ "31": {
+  "model": "kaksi",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: kaksi",
+   "sg gen: kahden",
+   "sg part: kahta",
+   "sg illat: kahteen",
+   "pl nom: kahdet",
+   "pl gen: kaksien",
+   "pl part: kaksia",
+   "pl illat: kaksiin"
+  ],
+  "raw": [
+   "kaksi",
+   "kahden",
+   "kahta",
+   "kahteen",
+   "kahdet",
+   "kaksien",
+   "kaksia",
+   "kaksiin"
+  ]
+ },
+ "32": {
+  "model": "sisar",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: sisar",
+   "sg gen: sisaren",
+   "sg part: sisarta",
+   "sg illat: sisareen",
+   "pl nom: sisaret",
+   "pl gen: sisarien sisarten",
+   "pl part: sisaria",
+   "pl illat: sisariin"
+  ],
+  "raw": [
+   "sisar",
+   "sisaren",
+   "sisarta",
+   "sisareen",
+   "sisaret",
+   "sisarien sisarten",
+   "sisaria",
+   "sisariin"
+  ]
+ },
+ "33": {
+  "model": "kytkin",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: kytkin",
+   "sg gen: kytkimen",
+   "sg part: kytkintä",
+   "sg illat: kytkimeen",
+   "pl nom: kytkimet",
+   "pl gen: kytkimien kytkinten",
+   "pl part: kytkimiä",
+   "pl illat: kytkimiin"
+  ],
+  "raw": [
+   "kytkin",
+   "kytkimen",
+   "kytkintä",
+   "kytkimeen",
+   "kytkimet",
+   "kytkimien kytkinten",
+   "kytkimiä",
+   "kytkimiin"
+  ]
+ },
+ "34": {
+  "model": "onneton",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: onneton",
+   "sg gen: onnettoman",
+   "sg part: onnetonta",
+   "sg illat: onnettomaan",
+   "pl nom: onnettomat",
+   "pl gen: onnettomien (onnetonten)",
+   "pl part: onnettomia",
+   "pl illat: onnettomiin"
+  ],
+  "raw": [
+   "onneton",
+   "onnettoman",
+   "onnetonta",
+   "onnettomaan",
+   "onnettomat",
+   "onnettomien (onnetonten)",
+   "onnettomia",
+   "onnettomiin"
+  ]
+ },
+ "35": {
+  "model": "lämmin",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: lämmin",
+   "sg gen: lämpimän",
+   "sg part: lämmintä",
+   "sg illat: lämpimään",
+   "pl nom: lämpimät",
+   "pl gen: lämpimien (lämpimäin)",
+   "pl part: lämpimiä",
+   "pl illat: lämpimiin"
+  ],
+  "raw": [
+   "lämmin",
+   "lämpimän",
+   "lämmintä",
+   "lämpimään",
+   "lämpimät",
+   "lämpimien (lämpimäin)",
+   "lämpimiä",
+   "lämpimiin"
+  ]
+ },
+ "36": {
+  "model": "sisin",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: sisin",
+   "sg gen: sisimmän",
+   "sg part: sisintä",
+   "sg illat: sisimpään",
+   "pl nom: sisimmät",
+   "pl gen: sisimpien sisinten (sisimpäin)",
+   "pl part: sisimpiä",
+   "pl illat: sisimpiin"
+  ],
+  "raw": [
+   "sisin",
+   "sisimmän",
+   "sisintä",
+   "sisimpään",
+   "sisimmät",
+   "sisimpien sisinten (sisimpäin)",
+   "sisimpiä",
+   "sisimpiin"
+  ]
+ },
+ "37": {
+  "model": "vasen",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: vasen",
+   "sg gen: vasemman",
+   "sg part: vasenta (vasempaa)",
+   "sg illat: vasempaan",
+   "pl nom: vasemmat",
+   "pl gen: vasempien vasenten (vasempain)",
+   "pl part: vasempia",
+   "pl illat: vasempiin"
+  ],
+  "raw": [
+   "vasen",
+   "vasemman",
+   "vasenta (vasempaa)",
+   "vasempaan",
+   "vasemmat",
+   "vasempien vasenten (vasempain)",
+   "vasempia",
+   "vasempiin"
+  ]
+ },
+ "38": {
+  "model": "nainen",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: nainen",
+   "sg gen: naisen",
+   "sg part: naista",
+   "sg illat: naiseen",
+   "pl nom: naiset",
+   "pl gen: naisten naisien",
+   "pl part: naisia",
+   "pl illat: naisiin"
+  ],
+  "raw": [
+   "nainen",
+   "naisen",
+   "naista",
+   "naiseen",
+   "naiset",
+   "naisten naisien",
+   "naisia",
+   "naisiin"
+  ]
+ },
+ "39": {
+  "model": "vastaus",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: vastaus",
+   "sg gen: vastauksen",
+   "sg part: vastausta",
+   "sg illat: vastaukseen",
+   "pl nom: vastaukset",
+   "pl gen: vastausten vastauksien",
+   "pl part: vastauksia",
+   "pl illat: vastauksiin"
+  ],
+  "raw": [
+   "vastaus",
+   "vastauksen",
+   "vastausta",
+   "vastaukseen",
+   "vastaukset",
+   "vastausten vastauksien",
+   "vastauksia",
+   "vastauksiin"
+  ]
+ },
+ "40": {
+  "model": "kalleus",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: kalleus",
+   "sg gen: kalleuden",
+   "sg part: kalleutta",
+   "sg illat: kalleuteen",
+   "pl nom: kalleudet",
+   "pl gen: kalleuksien",
+   "pl part: kalleuksia",
+   "pl illat: kalleuksiin"
+  ],
+  "raw": [
+   "kalleus",
+   "kalleuden",
+   "kalleutta",
+   "kalleuteen",
+   "kalleudet",
+   "kalleuksien",
+   "kalleuksia",
+   "kalleuksiin"
+  ]
+ },
+ "41": {
+  "model": "vieras",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: vieras",
+   "sg gen: vieraan",
+   "sg part: vierasta",
+   "sg illat: vieraaseen",
+   "pl nom: vieraat",
+   "pl gen: vieraiden vieraitten",
+   "pl part: vieraita",
+   "pl illat: vieraisiin (vieraihin)"
+  ],
+  "raw": [
+   "vieras",
+   "vieraan",
+   "vierasta",
+   "vieraaseen",
+   "vieraat",
+   "vieraiden vieraitten",
+   "vieraita",
+   "vieraisiin (vieraihin)"
+  ]
+ },
+ "42": {
+  "model": "mies",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: mies",
+   "sg gen: miehen",
+   "sg part: miestä",
+   "sg illat: mieheen",
+   "pl nom: miehet",
+   "pl gen: miesten miehien",
+   "pl part: miehiä",
+   "pl illat: miehiin"
+  ],
+  "raw": [
+   "mies",
+   "miehen",
+   "miestä",
+   "mieheen",
+   "miehet",
+   "miesten miehien",
+   "miehiä",
+   "miehiin"
+  ]
+ },
+ "43": {
+  "model": "ohut",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: ohut",
+   "sg gen: ohuen",
+   "sg part: ohutta",
+   "sg illat: ohueen",
+   "pl nom: ohuet",
+   "pl gen: ohuiden ohuitten",
+   "pl part: ohuita",
+   "pl illat: ohuisiin ohuihin"
+  ],
+  "raw": [
+   "ohut",
+   "ohuen",
+   "ohutta",
+   "ohueen",
+   "ohuet",
+   "ohuiden ohuitten",
+   "ohuita",
+   "ohuisiin ohuihin"
+  ]
+ },
+ "44": {
+  "model": "kevät",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: kevät",
+   "sg gen: kevään",
+   "sg part: kevättä",
+   "sg illat: kevääseen",
+   "pl nom: keväät",
+   "pl gen: keväiden keväitten",
+   "pl part: keväitä",
+   "pl illat: keväisiin (keväihin)"
+  ],
+  "raw": [
+   "kevät",
+   "kevään",
+   "kevättä",
+   "kevääseen",
+   "keväät",
+   "keväiden keväitten",
+   "keväitä",
+   "keväisiin (keväihin)"
+  ]
+ },
+ "45": {
+  "model": "kahdeksas",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: kahdeksas",
+   "sg gen: kahdeksannen",
+   "sg part: kahdeksatta",
+   "sg illat: kahdeksanteen",
+   "pl nom: kahdeksannet",
+   "pl gen: kahdeksansien",
+   "pl part: kahdeksansia",
+   "pl illat: kahdeksansiin"
+  ],
+  "raw": [
+   "kahdeksas",
+   "kahdeksannen",
+   "kahdeksatta",
+   "kahdeksanteen",
+   "kahdeksannet",
+   "kahdeksansien",
+   "kahdeksansia",
+   "kahdeksansiin"
+  ]
+ },
+ "46": {
+  "model": "tuhat",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: tuhat",
+   "sg gen: tuhannen",
+   "sg part: tuhatta",
+   "sg illat: tuhanteen",
+   "pl nom: tuhannet",
+   "pl gen: tuhansien (tuhanten)",
+   "pl part: tuhansia",
+   "pl illat: tuhansiin"
+  ],
+  "raw": [
+   "tuhat",
+   "tuhannen",
+   "tuhatta",
+   "tuhanteen",
+   "tuhannet",
+   "tuhansien (tuhanten)",
+   "tuhansia",
+   "tuhansiin"
+  ]
+ },
+ "47": {
+  "model": "kuollut",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: kuollut",
+   "sg gen: kuolleen",
+   "sg part: kuollutta",
+   "sg illat: kuolleeseen",
+   "pl nom: kuolleet",
+   "pl gen: kuolleiden kuolleitten",
+   "pl part: kuolleita",
+   "pl illat: kuolleisiin kuolleihin"
+  ],
+  "raw": [
+   "kuollut",
+   "kuolleen",
+   "kuollutta",
+   "kuolleeseen",
+   "kuolleet",
+   "kuolleiden kuolleitten",
+   "kuolleita",
+   "kuolleisiin kuolleihin"
+  ]
+ },
+ "48": {
+  "model": "hame",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: hame",
+   "sg gen: hameen",
+   "sg part: hametta",
+   "sg illat: hameeseen",
+   "pl nom: hameet",
+   "pl gen: hameiden hameitten",
+   "pl part: hameita",
+   "pl illat: hameisiin hameihin"
+  ],
+  "raw": [
+   "hame",
+   "hameen",
+   "hametta",
+   "hameeseen",
+   "hameet",
+   "hameiden hameitten",
+   "hameita",
+   "hameisiin hameihin"
+  ]
+ },
+ "49": {
+  "model": "askel",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: askel",
+   "sg gen: askelen",
+   "sg part: askelta",
+   "sg illat: (askeleen)",
+   "pl nom: askelet",
+   "pl gen: askelien askelten",
+   "pl part: askelia",
+   "pl illat: askeliin"
+  ],
+  "raw": [
+   "askel",
+   "askelen",
+   "askelta",
+   "(askeleen)",
+   "askelet",
+   "askelien askelten",
+   "askelia",
+   "askeliin",
+   "askele",
+   "askeleen",
+   "askeletta",
+   "askeleeseen",
+   "askeleet",
+   "askeleiden askeleitten",
+   "askeleita",
+   "askeleisiin askeleihin"
+  ]
+ },
+ "50": {
+  "model": "isoäiti",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: isoäiti",
+   "sg gen: isoäidin",
+   "sg part: isoäitiä",
+   "sg illat: isoäitiin",
+   "pl nom: isoäidit",
+   "pl gen: isoäitien",
+   "pl part: isoäitejä",
+   "pl illat: isoäiteihin"
+  ],
+  "raw": [
+   "isoäiti",
+   "isoäidin",
+   "isoäitiä",
+   "isoäitiin",
+   "isoäidit",
+   "isoäitien",
+   "isoäitejä",
+   "isoäiteihin"
+  ]
+ },
+ "51": {
+  "model": "nuoripari",
+  "kind": "nominal",
+  "forms": [
+   "sg nom: nuoripari",
+   "sg gen: nuorenparin",
+   "sg part: nuortaparia",
+   "sg illat: nuoreenpariin",
+   "pl nom: nuoretparit",
+   "pl gen: nuortenparien nuorienparien",
+   "pl part: nuoriapareja",
+   "pl illat: nuoriinpareihin"
+  ],
+  "raw": [
+   "nuoripari",
+   "nuorenparin",
+   "nuortaparia",
+   "nuoreenpariin",
+   "nuoretparit",
+   "nuortenparien nuorienparien",
+   "nuoriapareja",
+   "nuoriinpareihin"
+  ]
+ },
+ "52": {
+  "model": "sanoa",
+  "kind": "verb",
+  "forms": [
+   "1st inf: sanoa",
+   "pres 1sg: sanon",
+   "past 3sg: sanoi",
+   "cond 3sg: sanoisi",
+   "pot 3sg: sanonee",
+   "imper 3sg: sanokoon",
+   "NUT-part: sanonut",
+   "pass past: sanottiin"
+  ],
+  "raw": [
+   "sanoa",
+   "sanon",
+   "sanoi",
+   "sanoisi",
+   "sanonee",
+   "sanokoon",
+   "sanonut",
+   "sanottiin"
+  ]
+ },
+ "53": {
+  "model": "muistaa",
+  "kind": "verb",
+  "forms": [
+   "1st inf: muistaa",
+   "pres 1sg: muistan",
+   "past 3sg: muisti",
+   "cond 3sg: muistaisi",
+   "pot 3sg: muistanee",
+   "imper 3sg: muistakoon",
+   "NUT-part: muistanut",
+   "pass past: muistettiin"
+  ],
+  "raw": [
+   "muistaa",
+   "muistan",
+   "muisti",
+   "muistaisi",
+   "muistanee",
+   "muistakoon",
+   "muistanut",
+   "muistettiin"
+  ]
+ },
+ "54": {
+  "model": "huutaa",
+  "kind": "verb",
+  "forms": [
+   "1st inf: huutaa",
+   "pres 1sg: huudan",
+   "past 3sg: huusi",
+   "cond 3sg: huutaisi",
+   "pot 3sg: huutanee",
+   "imper 3sg: huutakoon",
+   "NUT-part: huutanut",
+   "pass past: huudettiin"
+  ],
+  "raw": [
+   "huutaa",
+   "huudan",
+   "huusi",
+   "huutaisi",
+   "huutanee",
+   "huutakoon",
+   "huutanut",
+   "huudettiin"
+  ]
+ },
+ "55": {
+  "model": "soutaa",
+  "kind": "verb",
+  "forms": [
+   "1st inf: soutaa",
+   "pres 1sg: soudan",
+   "past 3sg: souti sousi",
+   "cond 3sg: soutaisi",
+   "pot 3sg: soutanee",
+   "imper 3sg: soutakoon",
+   "NUT-part: soutanut",
+   "pass past: soudettiin"
+  ],
+  "raw": [
+   "soutaa",
+   "soudan",
+   "souti sousi",
+   "soutaisi",
+   "soutanee",
+   "soutakoon",
+   "soutanut",
+   "soudettiin"
+  ]
+ },
+ "56": {
+  "model": "kaivaa",
+  "kind": "verb",
+  "forms": [
+   "1st inf: kaivaa",
+   "pres 1sg: kaivan",
+   "past 3sg: kaivoi",
+   "cond 3sg: kaivaisi",
+   "pot 3sg: kaivanee",
+   "imper 3sg: kaivakoon",
+   "NUT-part: kaivanut",
+   "pass past: kaivettiin"
+  ],
+  "raw": [
+   "kaivaa",
+   "kaivan",
+   "kaivoi",
+   "kaivaisi",
+   "kaivanee",
+   "kaivakoon",
+   "kaivanut",
+   "kaivettiin"
+  ]
+ },
+ "57": {
+  "model": "saartaa",
+  "kind": "verb",
+  "forms": [
+   "1st inf: saartaa",
+   "pres 1sg: saarran",
+   "past 3sg: saarsi saartoi",
+   "cond 3sg: saartaisi",
+   "pot 3sg: saartanee",
+   "imper 3sg: saartakoon",
+   "NUT-part: saartanut",
+   "pass past: saarrettiin"
+  ],
+  "raw": [
+   "saartaa",
+   "saarran",
+   "saarsi saartoi",
+   "saartaisi",
+   "saartanee",
+   "saartakoon",
+   "saartanut",
+   "saarrettiin"
+  ]
+ },
+ "58": {
+  "model": "laskea",
+  "kind": "verb",
+  "forms": [
+   "1st inf: laskea",
+   "pres 1sg: lasken",
+   "past 3sg: laski",
+   "cond 3sg: laskisi",
+   "pot 3sg: laskenee",
+   "imper 3sg: laskekoon",
+   "NUT-part: laskenut",
+   "pass past: laskettiin"
+  ],
+  "raw": [
+   "laskea",
+   "lasken",
+   "laski",
+   "laskisi",
+   "laskenee",
+   "laskekoon",
+   "laskenut",
+   "laskettiin"
+  ]
+ },
+ "59": {
+  "model": "tuntea",
+  "kind": "verb",
+  "forms": [
+   "1st inf: tuntea",
+   "pres 1sg: tunnen",
+   "past 3sg: tunsi",
+   "cond 3sg: tuntisi",
+   "pot 3sg: tuntenee",
+   "imper 3sg: tuntekoon",
+   "NUT-part: tuntenut",
+   "pass past: tunnettiin"
+  ],
+  "raw": [
+   "tuntea",
+   "tunnen",
+   "tunsi",
+   "tuntisi",
+   "tuntenee",
+   "tuntekoon",
+   "tuntenut",
+   "tunnettiin"
+  ]
+ },
+ "60": {
+  "model": "lähteä",
+  "kind": "verb",
+  "forms": [
+   "1st inf: lähteä",
+   "pres 1sg: lähden",
+   "past 3sg: lähti (läksi)",
+   "cond 3sg: lähtisi",
+   "pot 3sg: lähtenee",
+   "imper 3sg: lähteköön",
+   "NUT-part: lähtenyt",
+   "pass past: lähdettiin"
+  ],
+  "raw": [
+   "lähteä",
+   "lähden",
+   "lähti (läksi)",
+   "lähtisi",
+   "lähtenee",
+   "lähteköön",
+   "lähtenyt",
+   "lähdettiin"
+  ]
+ },
+ "61": {
+  "model": "sallia",
+  "kind": "verb",
+  "forms": [
+   "1st inf: sallia",
+   "pres 1sg: sallin",
+   "past 3sg: salli",
+   "cond 3sg: sallisi",
+   "pot 3sg: sallinee",
+   "imper 3sg: sallikoon",
+   "NUT-part: sallinut",
+   "pass past: sallittiin"
+  ],
+  "raw": [
+   "sallia",
+   "sallin",
+   "salli",
+   "sallisi",
+   "sallinee",
+   "sallikoon",
+   "sallinut",
+   "sallittiin"
+  ]
+ },
+ "62": {
+  "model": "voida",
+  "kind": "verb",
+  "forms": [
+   "1st inf: voida",
+   "pres 1sg: voin",
+   "past 3sg: voi",
+   "cond 3sg: voisi",
+   "pot 3sg: voinee",
+   "imper 3sg: voikoon",
+   "NUT-part: voinut",
+   "pass past: voitiin"
+  ],
+  "raw": [
+   "voida",
+   "voin",
+   "voi",
+   "voisi",
+   "voinee",
+   "voikoon",
+   "voinut",
+   "voitiin"
+  ]
+ },
+ "63": {
+  "model": "saada",
+  "kind": "verb",
+  "forms": [
+   "1st inf: saada",
+   "pres 1sg: saan",
+   "past 3sg: sai",
+   "cond 3sg: saisi",
+   "pot 3sg: saanee",
+   "imper 3sg: saakoon",
+   "NUT-part: saanut",
+   "pass past: saatiin"
+  ],
+  "raw": [
+   "saada",
+   "saan",
+   "sai",
+   "saisi",
+   "saanee",
+   "saakoon",
+   "saanut",
+   "saatiin"
+  ]
+ },
+ "64": {
+  "model": "juoda",
+  "kind": "verb",
+  "forms": [
+   "1st inf: juoda",
+   "pres 1sg: juon",
+   "past 3sg: joi",
+   "cond 3sg: joisi",
+   "pot 3sg: juonee",
+   "imper 3sg: juokoon",
+   "NUT-part: juonut",
+   "pass past: juotiin"
+  ],
+  "raw": [
+   "juoda",
+   "juon",
+   "joi",
+   "joisi",
+   "juonee",
+   "juokoon",
+   "juonut",
+   "juotiin"
+  ]
+ },
+ "65": {
+  "model": "käydä",
+  "kind": "verb",
+  "forms": [
+   "1st inf: käydä",
+   "pres 1sg: käyn",
+   "past 3sg: kävi",
+   "cond 3sg: kävisi",
+   "pot 3sg: käynee",
+   "imper 3sg: käyköön",
+   "NUT-part: käynyt",
+   "pass past: käytiin"
+  ],
+  "raw": [
+   "käydä",
+   "käyn",
+   "kävi",
+   "kävisi",
+   "käynee",
+   "käyköön",
+   "käynyt",
+   "käytiin"
+  ]
+ },
+ "66": {
+  "model": "rohkaista",
+  "kind": "verb",
+  "forms": [
+   "1st inf: rohkaista",
+   "pres 1sg: rohkaisen",
+   "past 3sg: rohkaisi",
+   "cond 3sg: rohkaisisi",
+   "pot 3sg: rohkaissee",
+   "imper 3sg: rohkaiskoon",
+   "NUT-part: rohkaissut",
+   "pass past: rohkaistiin"
+  ],
+  "raw": [
+   "rohkaista",
+   "rohkaisen",
+   "rohkaisi",
+   "rohkaisisi",
+   "rohkaissee",
+   "rohkaiskoon",
+   "rohkaissut",
+   "rohkaistiin"
+  ]
+ },
+ "67": {
+  "model": "tulla",
+  "kind": "verb",
+  "forms": [
+   "1st inf: tulla",
+   "pres 1sg: tulen",
+   "past 3sg: tuli",
+   "cond 3sg: tulisi",
+   "pot 3sg: tullee",
+   "imper 3sg: tulkoon",
+   "NUT-part: tullut",
+   "pass past: tultiin"
+  ],
+  "raw": [
+   "tulla",
+   "tulen",
+   "tuli",
+   "tulisi",
+   "tullee",
+   "tulkoon",
+   "tullut",
+   "tultiin"
+  ]
+ },
+ "68": {
+  "model": "tupakoida",
+  "kind": "verb",
+  "forms": [
+   "1st inf: tupakoida",
+   "pres 1sg: tupakoin (tupakoitsen)",
+   "past 3sg: tupakoi (tupakoitsi)",
+   "cond 3sg: tupakoisi (tupakoitsisi)",
+   "pot 3sg: tupakoinee",
+   "imper 3sg: tupakoikoon",
+   "NUT-part: tupakoinut",
+   "pass past: tupakoitiin"
+  ],
+  "raw": [
+   "tupakoida",
+   "tupakoin (tupakoitsen)",
+   "tupakoi (tupakoitsi)",
+   "tupakoisi (tupakoitsisi)",
+   "tupakoinee",
+   "tupakoikoon",
+   "tupakoinut",
+   "tupakoitiin"
+  ]
+ },
+ "69": {
+  "model": "valita",
+  "kind": "verb",
+  "forms": [
+   "1st inf: valita",
+   "pres 1sg: valitsen",
+   "past 3sg: valitsi",
+   "cond 3sg: valitsisi",
+   "pot 3sg: valinnee",
+   "imper 3sg: valitkoon",
+   "NUT-part: valinnut",
+   "pass past: valittiin"
+  ],
+  "raw": [
+   "valita",
+   "valitsen",
+   "valitsi",
+   "valitsisi",
+   "valinnee",
+   "valitkoon",
+   "valinnut",
+   "valittiin"
+  ]
+ },
+ "70": {
+  "model": "juosta",
+  "kind": "verb",
+  "forms": [
+   "1st inf: juosta",
+   "pres 1sg: juoksen",
+   "past 3sg: juoksi",
+   "cond 3sg: juoksisi",
+   "pot 3sg: juossee",
+   "imper 3sg: juoskoon",
+   "NUT-part: juossut",
+   "pass past: juostiin"
+  ],
+  "raw": [
+   "juosta",
+   "juoksen",
+   "juoksi",
+   "juoksisi",
+   "juossee",
+   "juoskoon",
+   "juossut",
+   "juostiin"
+  ]
+ },
+ "71": {
+  "model": "nähdä",
+  "kind": "verb",
+  "forms": [
+   "1st inf: nähdä",
+   "pres 1sg: näen",
+   "past 3sg: näki",
+   "cond 3sg: näkisi",
+   "pot 3sg: nähnee",
+   "imper 3sg: nähköön",
+   "NUT-part: nähnyt",
+   "pass past: nähtiin"
+  ],
+  "raw": [
+   "nähdä",
+   "näen",
+   "näki",
+   "näkisi",
+   "nähnee",
+   "nähköön",
+   "nähnyt",
+   "nähtiin"
+  ]
+ },
+ "72": {
+  "model": "vanheta",
+  "kind": "verb",
+  "forms": [
+   "1st inf: vanheta",
+   "pres 1sg: vanhenen",
+   "past 3sg: vanheni",
+   "cond 3sg: vanhenisi",
+   "pot 3sg: vanhennee",
+   "imper 3sg: vanhetkoon",
+   "NUT-part: vanhennut",
+   "pass past: vanhettiin"
+  ],
+  "raw": [
+   "vanheta",
+   "vanhenen",
+   "vanheni",
+   "vanhenisi",
+   "vanhennee",
+   "vanhetkoon",
+   "vanhennut",
+   "vanhettiin"
+  ]
+ },
+ "73": {
+  "model": "salata",
+  "kind": "verb",
+  "forms": [
+   "1st inf: salata",
+   "pres 1sg: salaan",
+   "past 3sg: salasi",
+   "cond 3sg: salaisi",
+   "pot 3sg: salannee",
+   "imper 3sg: salatkoon",
+   "NUT-part: salannut",
+   "pass past: salattiin"
+  ],
+  "raw": [
+   "salata",
+   "salaan",
+   "salasi",
+   "salaisi",
+   "salannee",
+   "salatkoon",
+   "salannut",
+   "salattiin"
+  ]
+ },
+ "74": {
+  "model": "katketa",
+  "kind": "verb",
+  "forms": [
+   "1st inf: katketa",
+   "pres 1sg: katkean",
+   "past 3sg: katkesi",
+   "cond 3sg: katkeaisi (katkeisi)",
+   "pot 3sg: katkennee",
+   "imper 3sg: katketkoon",
+   "NUT-part: katkennut",
+   "pass past: katkettiin"
+  ],
+  "raw": [
+   "katketa",
+   "katkean",
+   "katkesi",
+   "katkeaisi (katkeisi)",
+   "katkennee",
+   "katketkoon",
+   "katkennut",
+   "katkettiin"
+  ]
+ },
+ "75": {
+  "model": "selvitä",
+  "kind": "verb",
+  "forms": [
+   "1st inf: selvitä",
+   "pres 1sg: selviän",
+   "past 3sg: selvisi",
+   "cond 3sg: selviäisi",
+   "pot 3sg: selvinnee",
+   "imper 3sg: selvitköön",
+   "NUT-part: selvinnyt",
+   "pass past: selvittiin"
+  ],
+  "raw": [
+   "selvitä",
+   "selviän",
+   "selvisi",
+   "selviäisi",
+   "selvinnee",
+   "selvitköön",
+   "selvinnyt",
+   "selvittiin"
+  ]
+ },
+ "76": {
+  "model": "taitaa",
+  "kind": "verb",
+  "forms": [
+   "1st inf: taitaa",
+   "pres 1sg: taidan",
+   "past 3sg: taisi",
+   "cond 3sg: taitaisi",
+   "pot 3sg: taitanee tainnee",
+   "imper 3sg: taitakoon",
+   "NUT-part: tainnut taitanut",
+   "pass past: taidettiin"
+  ],
+  "raw": [
+   "taitaa",
+   "taidan",
+   "taisi",
+   "taitaisi",
+   "taitanee tainnee",
+   "taitakoon",
+   "tainnut taitanut",
+   "taidettiin"
+  ]
+ },
+ "77": {
+  "model": "kumajaa",
+  "kind": "verb",
+  "forms": [
+   "1st inf: kumajaa",
+   "pres 1sg: kumaji",
+   "past 3sg: kumajaisi"
+  ],
+  "raw": [
+   "kumajaa",
+   "kumaji",
+   "kumajaisi"
+  ]
+ },
+ "78": {
+  "model": "kaikaa",
+  "kind": "verb",
+  "forms": [
+   "1st inf: kaikaa",
+   "pres 1sg: kaikaisi"
+  ],
+  "raw": [
+   "kaikaa",
+   "kaikaisi"
+  ]
+ },
+ "99": {
+  "model": "(indeclinable / defective)",
+  "kind": "other",
+  "forms": [],
+  "raw": []
+ },
+ "101": {
+  "model": "(numeral/special; not modelled by Kotus)",
+  "kind": "other",
+  "forms": [],
+  "raw": []
+ }
+}
